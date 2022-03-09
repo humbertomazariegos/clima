@@ -1,0 +1,21 @@
+.bk-clima{
+    background: url("./assets/img/clima-tipos.jpg") no-repeat center center;
+    background-size: cover ;
+}
+.bk-gray{
+    background-color: rgba(0,0,0,.4);
+    padding: 15px;
+}
+.card-clima h2{
+    margin-bottom: -2px;
+}
+.header-card-hoy{
+    display: flex;
+    justify-content: space-between;
+}
+.d-none{
+    display: none;
+}
+.d-block{
+    display: block;
+}
